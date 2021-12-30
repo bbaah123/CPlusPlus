@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571774905 source:c:\users\user\desktop\c++\testclassesapp\person.cpp
+	<iostream>
+	<string>
+	"person.h"
+
+1571774617 c:\users\user\desktop\c++\testclassesapp\person.h
+	<iostream>
+	<string>
+
+1571775131 source:c:\users\user\desktop\c++\testclassesapp\main.cpp
+	<iostream>
+	<string>
+	"person.h"
+

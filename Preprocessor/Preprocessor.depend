@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559086053 source:c:\users\user\desktop\c++\preprocessor\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1559087600 source:c:\users\user\desktop\c++\preprocessor\include.c
+	<stdio.h>
+	"metric.h"
+
+1559085993 c:\users\user\desktop\c++\preprocessor\metric.h
+
+1559087585 source:c:\users\user\desktop\c++\preprocessor\arraypointers.c
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559782451 source:c:\users\user\desktop\c++\recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1559791657 source:c:\users\user\desktop\c++\recursion\fibonacci.c
+	<stdio.h>
+

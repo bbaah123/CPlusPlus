@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1525366858 source:c:\users\user\desktop\current students\elijah jones\hashtableimplementationcplusplus\hashtableimplementationcplusplus\hashentry.cpp
+	"HashEntry.h"
+
+1525368648 c:\users\user\desktop\current students\elijah jones\hashtableimplementationcplusplus\hashtableimplementationcplusplus\hashentry.h
+
+1525366859 source:c:\users\user\desktop\current students\elijah jones\hashtableimplementationcplusplus\hashtableimplementationcplusplus\hashmap.cpp
+	"HashMap.h"
+	"HashEntry.h"
+	<iostream>
+
+1525366859 c:\users\user\desktop\current students\elijah jones\hashtableimplementationcplusplus\hashtableimplementationcplusplus\hashmap.h
+
+1525366859 source:c:\users\user\desktop\current students\elijah jones\hashtableimplementationcplusplus\hashtableimplementationcplusplus\main.cpp
+	<cstdlib>
+
+1525366859 source:c:\users\user\desktop\current students\elijah jones\hashtableimplementationcplusplus\hashtableimplementationcplusplus\ui.cpp
+	"UI.h"
+
+1525366859 c:\users\user\desktop\current students\elijah jones\hashtableimplementationcplusplus\hashtableimplementationcplusplus\ui.h
+
+1525367105 source:c:\users\user\desktop\c++\hashtable\main.cpp
+	<iostream>
+

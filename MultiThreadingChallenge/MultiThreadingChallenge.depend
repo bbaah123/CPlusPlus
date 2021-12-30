@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572974806 source:c:\users\user\desktop\c\c programming cookbook\c programming cookbook\codecbookchapter6\twothreads.c
+	<pthread.h>
+	<stdio.h>
+
+1514140574 source:c:\users\user\desktop\c++\multithreadingchallenge\main.c
+	<stdio.h>
+	<stdlib.h>
+

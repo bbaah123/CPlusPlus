@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559087585 source:c:\users\user\desktop\c++\preprocessor\arraypointers.c
+	<stdio.h>
+
+1559775909 source:c:\users\user\desktop\c++\files\main.c
+	<stdio.h>
+	<stdlib.h>
+

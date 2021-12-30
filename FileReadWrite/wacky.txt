@@ -1,0 +1,1 @@
+Although C provides for both a binary view and a text view, these views can be implemented identically.
